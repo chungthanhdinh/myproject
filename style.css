@@ -30,9 +30,9 @@ body {
 	font-family: 'Roboto Slab', serif;
 	-webkit-font-smoothing: antialiased;
 }
-ol, ul {
+/* ol, ul {
 	list-style: none;
-}
+} */
 blockquote, q {
 	quotes: none;
 }
